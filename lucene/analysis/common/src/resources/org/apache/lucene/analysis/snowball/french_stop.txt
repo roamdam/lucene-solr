@@ -42,7 +42,7 @@ notre          |  our
 nous           |  we
 on             |  one
 ou             |  where
-par            |  by
+par            |  by 
 pas            |  not
 pour           |  for
 qu             |  que before vowel
@@ -177,6 +177,7 @@ ici            |  here
 ils            |  they
 les            |  the (pl)
 leurs          |  their (pl)
+parce          |  because (parce que)
 quel           |  which
 quels          |  which
 quelle         |  which
